@@ -1,3 +1,8 @@
+---
+layout: post
+title:  "Welcome to Jekyll!"
+---
+
 This seems more of an appropriate place to post a Suitcase update
 
 This last week I created some examples and demos of how to use Suitcase, links below. I’ve had some very positive feedback but also people not realising it was released (alpha) and you can download it form the GitHub page.
