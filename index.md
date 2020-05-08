@@ -5,3 +5,11 @@ _Development Tools for Humans™_
 - [🎥 Suitcase Videos](https://vimeo.com/showcase/7102180) - A collection of demo videos, showcasing a range of Suitcase features. 
 
 - [🧳 Suitcase Bazaar](https://impedimenta.github.io/Suitcase-Bazaar/) - Suitcase examples and documentation.
+
+<ul>
+  {% for post in site.posts %}
+    <li>
+      <a href="{{ post.url }}">{{ post.title }}</a>
+    </li>
+  {% endfor %}
+</ul>
