@@ -4,7 +4,7 @@ title:  "🗓 Weekly Round Up 4th May 2020"
 author: "Richard Stelling"
 ---
 
-This last week I created some examples and demos of how to use Suitcase, links below. I’ve had some very positive feedback but also people not realising it was released (alpha) and you can [download it form the GitHub page](https://github.com/Impedimenta/Suitcase/releases/latest/download/Suitcase.dmg).
+This last week I created some examples and demos of how to use [🧳 Suitcase](https://github.com/Impedimenta/Suitcase/), links below. I’ve had some very positive feedback but also people not realising it _was_ released (in alpha) and you can [download it form the GitHub page](https://github.com/Impedimenta/Suitcase/releases/latest/download/Suitcase.dmg).
 
 ## Examples & Demos
 
