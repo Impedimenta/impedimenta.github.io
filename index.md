@@ -9,7 +9,7 @@ _Development Tools for Humans™_
 <ul>
   {% for post in site.posts %}
     <li>
-      <a href="{{ post.url }}">{{ post.title }}</a> — {{ post.subtitle }}
+      <p><a href="{{ post.url }}">{{ post.title }}</a> — {{ post.subtitle }}</p>
     </li>
   {% endfor %}
 </ul>
