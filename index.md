@@ -9,7 +9,7 @@ _Development Tools for Humans™_
 <ul>
   {% for post in site.posts %}
     <li>
-      <p><a href="{{ post.url }}">{{ post.title }}</a> — {{ post.subtitle }}</p>
+      <p><a href="{{ post.url }}">{{ post.title }}</a> — {{ post.subtitle }} <span style="colour: #CCC; font-size: 11px">{{ page.date | date_to_string }}</span></p>
     </li>
   {% endfor %}
 </ul>
