@@ -13,3 +13,5 @@ _Development Tools for Humans™_
     </li>
   {% endfor %}
 </ul>
+
+<script type="text/javascript" src="//downloads.mailchimp.com/js/signup-forms/popup/unique-methods/embed.js" data-dojo-config="usePlainJson: true, isDebug: false"></script><script type="text/javascript">window.dojoRequire(["mojo/signup-forms/Loader"], function(L) { L.start({"baseUrl":"mc.us7.list-manage.com","uuid":"3ca51398cd24bb1baa2e93461","lid":"817e807549","uniqueMethods":true}) })</script>
